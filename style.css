@@ -1,0 +1,31 @@
+body {
+    background-color: #FCFF6C;
+    font-family: Cambria;
+}
+
+header {
+    background-color: #5a5a57;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+main {
+    background-color: #8DE295;
+}
+
+nav a {
+    text-decoration: none;
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+    margin: 190px;
+    padding: 10px;
+    color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
